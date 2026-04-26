@@ -7,3 +7,6 @@ Wired code is in the fencer weapon zip file while the wireless code is in the wi
 - Wired: foil
 - Wireless --- system is split into two(transmitter and receiver)
 - Transmitter is equivalent to weapon while receiver is equivalent to the scoring box/apparatus
+
+
+-- The file that has the name "Code for this project". However, it contains all the flowchart for the code implementation.
